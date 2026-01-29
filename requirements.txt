@@ -1,0 +1,20 @@
+# Data Manipulation & Math
+pandas
+numpy
+joblib
+
+# Machine Learning & Baselines
+scikit-learn
+
+# Deep Learning (PyTorch)
+torch
+torchvision
+torchaudio
+
+# Visualization & Analysis
+matplotlib
+seaborn
+notebook
+
+# Utilities
+tqdm
